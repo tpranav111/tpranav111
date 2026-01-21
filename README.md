@@ -7,3 +7,7 @@
 ⚡ I thrive in fast-moving environments, take ownership end-to-end, and get genuinely excited about building things people trust and use every day.
 
 ✨ Always curious. Always shipping. Always improving.
+
+📫 Feel free to get in touch:  
+ 🔗 LinkedIn: https://www.linkedin.com/in/pranav-thorat-bb4424136  
+ 📧 Email: thoratpranav@gmail.com
