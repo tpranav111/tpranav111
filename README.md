@@ -1,6 +1,6 @@
 👋 Hi, I’m Pranav!
 
-🚀 I’m a Machine Learning & Software Engineer with 3+ years of experience building production AI systems that actually ship, scale, and create real impact.
+🚀 I’m a Machine Learning & Software Engineer with 5+ years of experience building production AI systems that actually ship, scale, and create real impact.
 
 🧠 I love turning messy, real-world problems into clean, reliable products by combining strong CS fundamentals with ML, LLMs, and full-stack engineering.
 
